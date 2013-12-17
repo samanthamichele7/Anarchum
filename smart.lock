@@ -1,0 +1,15 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "zurb-foundation": {}
+    },
+    "packages": {
+      "zurb-foundation": {
+        "git": "https://github.com/MixinLabs/meteor-foundation.git",
+        "tag": "v0.1.10",
+        "commit": "545234bc38f7a747a5d69b48f75c5cc77ca8382f"
+      }
+    }
+  }
+}
