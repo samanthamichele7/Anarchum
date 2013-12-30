@@ -1,6 +1,5 @@
 {
   "packages": {
-    "zurb-foundation": {},
-    "foundation-5": {}
+    "zurb-foundation": {}
   }
 }
