@@ -2,13 +2,19 @@
   "meteor": {},
   "dependencies": {
     "basePackages": {
-      "zurb-foundation": {}
+      "zurb-foundation": {},
+      "iron-router": {}
     },
     "packages": {
       "zurb-foundation": {
         "git": "https://github.com/MixinLabs/meteor-foundation.git",
         "tag": "v0.1.10",
         "commit": "545234bc38f7a747a5d69b48f75c5cc77ca8382f"
+      },
+      "iron-router": {
+        "git": "https://github.com/EventedMind/iron-router.git",
+        "tag": "v0.6.1",
+        "commit": "4e1ee0581d68bff422a915dacb0bd30eae10fe08"
       }
     }
   }
