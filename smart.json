@@ -1,6 +1,7 @@
 {
   "packages": {
     "zurb-foundation": {},
-    "iron-router": {}
+    "iron-router": {},
+    "modernizr-meteor": {}
   }
 }
